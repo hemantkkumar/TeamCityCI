@@ -1,0 +1,19 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <version>0.00</version>
+    <authors>Hemant Kumar</authors>
+    <owners>Hemant Kumar</owners>
+    <id>Team City CI</id>
+    <title>DataAccess</title>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Empty Project</description>
+    <copyright>Copyright Hemant Kumar</copyright>
+    <!--<dependencies>
+      </dependencies>-->
+  </metadata>
+  <files>
+    <file src="bin\*.*" target="bin" />
+    <file src="Web.config" target="TeamCityCI"></file>
+  </files>
+</package>
