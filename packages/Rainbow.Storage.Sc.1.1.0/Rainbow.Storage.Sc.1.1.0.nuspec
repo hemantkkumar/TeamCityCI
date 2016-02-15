@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>Rainbow.Storage.Sc</id>
+    <version>1.1.0</version>
+    <authors>Kam Figy</authors>
+    <owners>Kam Figy</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/kamsar/Rainbow</projectUrl>
+    <iconUrl>http://kamsar.net/nuget/rainbow/sc.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Implements the Sitecore database as a Rainbow data store</description>
+    <tags>sitecore</tags>
+    <dependencies>
+      <dependency id="Rainbow.Core" version="1.1.0" />
+    </dependencies>
+  </metadata>
+</package>

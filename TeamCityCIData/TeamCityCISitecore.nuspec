@@ -4,7 +4,7 @@
     <version>1.0.0.0</version>
     <authors>Hemant Kumar</authors>
     <owners>Hemant Kumar</owners>
-    <id>TeamCityCI</id>
+    <id>SitecoreUpdatePack</id>
     <title>DataAccess</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>Empty Project</description>

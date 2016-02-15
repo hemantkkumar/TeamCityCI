@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+  <metadata>
+    <id>MicroCHAP</id>
+    <version>1.2.1.0</version>
+    <title>MicroCHAP</title>
+    <authors>Kam Figy</authors>
+    <owners>Kam Figy</owners>
+    <licenseUrl>http://opensource.org/licenses/MIT</licenseUrl>
+    <projectUrl>https://github.com/kamsar/MicroCHAP</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Tiny library for authentication using a shared secret and CHAP+HMAC-SHA512.</description>
+    <copyright>Copyright 2015</copyright>
+  </metadata>
+</package>
