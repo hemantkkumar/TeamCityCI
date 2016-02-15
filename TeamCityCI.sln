@@ -4,6 +4,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 VisualStudioVersion = 12.0.21005.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityCI", "TeamCityCI\TeamCityCI.csproj", "{392677BF-95A3-4F5C-96D6-8BFD036FECFB}"
+	ProjectSection(ProjectDependencies) = postProject
+		{712AD3C6-6107-4955-AD96-39871877150D} = {712AD3C6-6107-4955-AD96-39871877150D}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TeamCityCIData", "TeamCityCIData\TeamCityCIData.csproj", "{712AD3C6-6107-4955-AD96-39871877150D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +20,10 @@ Global
 		{392677BF-95A3-4F5C-96D6-8BFD036FECFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{392677BF-95A3-4F5C-96D6-8BFD036FECFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{392677BF-95A3-4F5C-96D6-8BFD036FECFB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{712AD3C6-6107-4955-AD96-39871877150D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{712AD3C6-6107-4955-AD96-39871877150D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{712AD3C6-6107-4955-AD96-39871877150D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{712AD3C6-6107-4955-AD96-39871877150D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
