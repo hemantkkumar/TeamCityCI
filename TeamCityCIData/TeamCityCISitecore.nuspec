@@ -7,12 +7,12 @@
     <id>SitecoreUpdatePack</id>
     <title>DataAccess</title>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>Empty Project</description>
+    <description>Sitecore Data</description>
     <copyright>Copyright Hemant Kumar</copyright>
     <!--<dependencies>
       </dependencies>-->
   </metadata>
   <files>
-    <file src="Unicorn\SitecoreContent\**\*.*" target="bin" />
+    <file src="Unicorn\**\*.*" target="TeamCityCI" />
   </files>
 </package>
